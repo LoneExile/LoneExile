@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning -> <img height="20" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+- 📫 How to reach me :<a href="https://twitter.com/Mo0_sec">
+  <img alt="Wolowit | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
