@@ -1,18 +1,19 @@
-# Hi! I'm Moo 👋
+<h1 align="left">Hi 👋, I'm Moo</h1>
+<h3 align="left">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working on ... currently focus on my job
-- 🌱 I’m currently learning -> react webpack, python, network
-- 📫 How to reach me :<a href="https://twitter.com/Mo0_sec">
-  <img alt="Wolowit | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<!---
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... **focusing on my full-time job**
+- 🌱 I’m currently learning -> **react webpack, python, network**
+- 💬 Ask me about **react, vue, neovim, awesomewm and linux**
+- ⚡ Fun fact **I use Arch, BTW**
+- 📫 How to reach me : **Apinant@tuna.io**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/bunlaikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bunlaikun" height="30" width="40" /></a>
+<a href="https://twitter.com/mo0_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0_sec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apinant-moo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apinant-moo/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/wolowit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wolowit" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -21,29 +22,13 @@
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolowit&layout=compact"/>
 
-<!---
-## Languages and Tools:
+---
 
-<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img align="left"  alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
--->
-
-<!-- <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
-<!---
-<img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
--->
-
-<!---
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
-
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bunlaikun&label=Profile%20views&color=0e75b6&style=flat" alt="bunlaikun" /> </p>
 
 
 
