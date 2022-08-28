@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I use Arch, BTW**
 - 📫 How to reach me : **Apinant@tuna.io**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bunlaikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bunlaikun" height="30" width="40" /></a>
 <a href="https://twitter.com/mo0_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0_sec" height="30" width="40" /></a>
@@ -15,6 +15,11 @@
 <a href="https://www.leetcode.com/wolowit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wolowit" height="30" width="40" /></a>
 </p>
 
+
+## 📚 Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [How to log query in Postgres container Docker to CSV file](https://dev.to/bunlaikun/how-to-log-query-in-postgres-container-docker-to-csv-file-3l7f)
+<!-- BLOG-POST-LIST:END -->
 ---
 
 
@@ -24,10 +29,7 @@
 
 ---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to log query in Postgres container Docker to CSV file](https://dev.to/bunlaikun/how-to-log-query-in-postgres-container-docker-to-csv-file-3l7f)
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunlaikun&label=Profile%20views&color=0e75b6&style=flat" alt="bunlaikun" /> </p>
 
