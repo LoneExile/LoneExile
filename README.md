@@ -26,6 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to log query in Postgres container Docker to CSV file](https://dev.to/bunlaikun/how-to-log-query-in-postgres-container-docker-to-csv-file-3l7f)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunlaikun&label=Profile%20views&color=0e75b6&style=flat" alt="bunlaikun" /> </p>
