@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Moo</h1>
 <h3 align="left">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working on ... **my portfolio website and focusing on my full-time job**
+- 🔭 I’m currently working on ... **my blog website and focusing on my full-time job**
 - 🌱 I’m currently learning -> **react webpack, python, network**
 - 💬 Ask me about **react, vue, neovim, awesomewm and linux**
 - ⚡ Fun fact **I use Arch, BTW**
