@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend and backend developer</h3>
 
 - 🔭 I’m currently working on ... **my blog website and focusing on my full-time job**
-- 🌱 I’m currently learning -> **react webpack, python, network**
+- 🌱 I’m currently learning -> **React Webpack,Lua, Python and Network**
 - 💬 Ask me about **react, vue, neovim, awesomewm and linux**
 - ⚡ Fun fact **I use Arch, BTW**
 - 📫 How to reach me : **Apinant@tuna.io**
