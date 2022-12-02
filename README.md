@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend and backend developer</h3>
 
 - 🔭 I’m currently working on ... **my blog website and focusing on my full-time job**
-- 🌱 I’m currently learning -> **React Webpack,Lua, Python and Network**
+- 🌱 I’m currently learning -> **Rust, Lua and Network**
 - 💬 Ask me about **react, vue, neovim, awesomewm and linux**
 - ⚡ Fun fact **I use Arch, BTW**
 - 📫 How to reach me : **Apinant@tuna.io**
@@ -10,8 +10,12 @@
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bunlaikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bunlaikun" height="30" width="40" /></a>
-<a href="https://twitter.com/mo0_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0_sec" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/mo0_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo0_sec" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/apinant-moo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apinant-moo/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20253319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20253319" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Bunlaikun" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82561297/205314598-b3c343f7-ce0b-410f-b69d-f789e24df4a9.svg" height="30" width="40" /></a>
+</p>
+
 <!--
 <a href="https://www.leetcode.com/wolowit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wolowit" height="30" width="40" /></a>
 </p> -->
