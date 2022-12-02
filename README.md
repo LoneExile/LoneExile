@@ -28,9 +28,11 @@
 ---
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LoneExile&show_icons=true&theme=radical"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loneexile&show_icons=true&theme=radical&locale=en&layout=compact" alt="loneexile" /></p>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneExile&layout=compact"/>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=loneexile&show_icons=true&theme=radical&locale=en" alt="loneexile" /></p>
+
+<!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=loneexile&theme=dark" alt="loneexile" /></p> -->
 
 ---
 <details>
