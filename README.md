@@ -27,10 +27,9 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=loneexile&show_icons=true&theme=radical&locale=en" alt="loneexile" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loneexile&show_icons=true&theme=radical&locale=en&layout=compact" alt="loneexile" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=loneexile&show_icons=true&theme=radical&locale=en" alt="loneexile" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=loneexile&show_icons=true&theme=radical&locale=en&layout=compact" alt="loneexile" />
 
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=loneexile&theme=dark" alt="loneexile" /></p> -->
 
