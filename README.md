@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning -> **Rust, Lua and Network**
 - 💬 Ask me about **react, vue, neovim, awesomewm and linux**
 - ⚡ Fun fact **I use Arch, BTW**
-- 📫 How to reach me : **Apinant@tuna.io**
+- 📫 How to reach me : **Apinant@Bunlaikun.dev**
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
