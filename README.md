@@ -2,7 +2,7 @@
 <h3 align="left">An enthusiastic developer and programmer.</h3>
 
 - 🔭 At present ... **Currently, I am constructing a blog website to preserve my thoughts and amassed knowledge while concentrating on my full-time occupation.**
-- 🌱 In my pursuit of knowledge ... **I am delving into Rust, Lua, Astro and Networking.**
+- 🌱 In my pursuit of knowledge ... **I am delving into Rust, Lua, Astro, Ansible, Terraform and many more along the way.**
 - 💬 Feel free to inquire about ... **Neovim, AwesomeWM and Linux-related matters**
 - ⚡ Fun fact ... **I use Arch, BTW**
 - 📫 To get in touch, please reach out at ... **Apinant@VoidBox.dev**
