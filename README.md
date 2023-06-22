@@ -23,6 +23,7 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Blog: A Developer&#39;s Journal](https://voidbox.io/blogs/2023-05-13-Creating-a-Blog-A-Developer's-Journal/)
 - [How to log query in Postgres container Docker to CSV file](https://dev.to/bunlaikun/how-to-log-query-in-postgres-container-docker-to-csv-file-3l7f)
 <!-- BLOG-POST-LIST:END -->
 ---
