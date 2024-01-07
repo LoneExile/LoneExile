@@ -25,9 +25,9 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Generics in TypeScript](https://voidbox.io/en/articles/2023-07-22-Generics-in-TypeScript/)
-- [AWS Cloud Practitioner in 5 days](https://voidbox.io/en/articles/2023-06-30-AWS-Cloud-Practitioner-in-5-days/)
-- [Creating a Blog: A Developer&#39;s Journal](https://voidbox.io/en/articles/2023-05-13-Creating-a-Blog-A-Developer's-Journal/)
+- [Generics in TypeScript](https://voidbox.io/articles/2023-07-22-Generics-in-TypeScript/)
+- [AWS Cloud Practitioner in 5 days](https://voidbox.io/articles/2023-06-30-AWS-Cloud-Practitioner-in-5-days/)
+- [Creating a Blog: A Developer&#39;s Journal](https://voidbox.io/articles/2023-05-13-Creating-a-Blog-A-Developer's-Journal/)
 - [How to log query in Postgres container Docker to CSV file](https://dev.to/bunlaikun/how-to-log-query-in-postgres-container-docker-to-csv-file-3l7f)
 <!-- BLOG-POST-LIST:END -->
 ---
