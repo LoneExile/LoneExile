@@ -25,6 +25,7 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Any distro with WSL](https://voidbox.io/articles/2024-04-21-Any-distro-with-WSL/)
 - [Generics in TypeScript](https://voidbox.io/articles/2023-07-22-Generics-in-TypeScript/)
 - [AWS Cloud Practitioner in 5 days](https://voidbox.io/articles/2023-06-30-AWS-Cloud-Practitioner-in-5-days/)
 - [Creating a Blog: A Developer&#39;s Journal](https://voidbox.io/articles/2023-05-13-Creating-a-Blog-A-Developer-s-Journal/)
