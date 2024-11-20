@@ -5,7 +5,7 @@
 - 🌱 In my pursuit of knowledge ... **I am delving into ~~Rust~~, Go, Lua, Astro, Cloud-related, and many more along the way.**
 - 💬 Feel free to inquire about ... **Neovim, Kubernetes, and Linux-related matters**
 - ⚡ Fun fact ... **I use Arch, BTW**
-- 📫 To get in touch, please reach out at ... **me@Apinant.dev**
+- 📫 To get in touch, please reach out at ... **Hello@Apinant.dev**
 
 <!--searching for a job. 🫠-->
 
