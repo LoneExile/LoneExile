@@ -34,15 +34,15 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/0-profile-details.svg" alt="LoneExile profile details" />
+  <img width="98%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="LoneExile profile details" />
 </p>
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/3-stats.svg" alt="LoneExile stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/3-stats.svg" alt="LoneExile stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most-used languages by commits" />
-  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most-used languages by commits" />
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 </p>
 
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=loneexile&theme=dark" alt="loneexile" /></p> -->
