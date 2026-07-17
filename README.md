@@ -33,9 +33,17 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=loneexile&show_icons=true&theme=radical&locale=en" alt="loneexile" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=loneexile&show_icons=true&theme=radical&locale=en&layout=compact" alt="loneexile" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/0-profile-details.svg" alt="LoneExile profile details" />
+</p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/3-stats.svg" alt="LoneExile stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" />
+</p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most-used languages by commits" />
+  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
+</p>
 
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=loneexile&theme=dark" alt="loneexile" /></p> -->
 
