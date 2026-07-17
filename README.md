@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="LoneExile profile details" />
+  <img width="70%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="LoneExile profile details" />
 </p>
 <p align="center">
   <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/3-stats.svg" alt="LoneExile stats" />
