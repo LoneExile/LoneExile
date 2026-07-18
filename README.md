@@ -37,8 +37,8 @@
   <img width="70%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="LoneExile profile details" />
 </p>
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/3-stats.svg" alt="LoneExile stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="34%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/3-stats.svg" alt="LoneExile stats" />
+  <img width="34%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
 
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=loneexile&theme=dark" alt="loneexile" /></p> -->
