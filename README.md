@@ -33,10 +33,16 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<p align="center">
+
+  <a href="https://certdirectory.io/profile/apinant-u-suwantim?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/apinant-u-suwantim.svg?style=card&theme=dark">
+    <img alt="Apinant U-suwantim on CertDirectory" src="https://certdirectory.io/badge/apinant-u-suwantim.svg?style=card">
+  </picture>
+</a>
   <img width="70%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="LoneExile profile details" />
-</p>
-<p align="center">
+
+<p align="">
   <img width="34%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/3-stats.svg" alt="LoneExile stats" />
   <img width="34%" src="https://raw.githubusercontent.com/LoneExile/LoneExile/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
